@@ -2,7 +2,10 @@
 layout: page
 title: Sobre
 lang: pt
+<<<<<<< HEAD
 permalink: /about/
+=======
+>>>>>>> 13c3451a1f1d76e5b8b6479b80c710f628f5216c
 ref: about
 ---
 O Subsurface por **planificar** e **gerir** **mergulhos** com uma ou várias garrafas usando ar, Nitrox ou Trimix. Permite guardar e gerir locais de mergulho incluindo as suas coordenadas GPS (que podem também ser convenientemente inseridas através do interface com um mapa), o registo do equipamento usado e os nomes dos companheiros de mergulho e permite aos utilizadores classficarem os mergulhos e adicionar notas adicionais.
